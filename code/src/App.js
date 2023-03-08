@@ -1,6 +1,7 @@
 import React from 'react';
 import AlbumComponent from 'components/Albums';
 import Header from 'components/Header';
+import './index.css';
 
 import data from './data.json';
 

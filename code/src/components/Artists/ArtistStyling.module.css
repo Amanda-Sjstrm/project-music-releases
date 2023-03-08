@@ -1,0 +1,10 @@
+.artistName {
+    font-family: Helvetica;
+    color: #a0a0a0;
+    margin-top: 0;
+    font-size: 14px;
+  }
+
+  .artistContainer {
+    display: flex;
+  }
