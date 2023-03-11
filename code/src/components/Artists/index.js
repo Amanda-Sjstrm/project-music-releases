@@ -12,7 +12,7 @@ const Artists = (props) => {
           rel="noreferrer">
           <p className={styles.artistName}>
             {artist.name}
-            {props.artists.length - 1 > index ? ', ' : ''}
+            {props.artists.length - 1 > index ? ' & ' : ''}
           </p>
         </a>
       ))}
